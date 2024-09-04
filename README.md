@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Gsap & Webflow**
 
-- 👨‍💻 All of my projects are available at [https://natashahans.netlify.app/](https://natashahans.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://natashahans.framer.website/](https://natashahans.framer.website/)
 
 - 💬 Ask me about **Web design, HTML, CSS, & JavaScript**
 
